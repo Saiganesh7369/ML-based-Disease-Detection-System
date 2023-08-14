@@ -1,0 +1,7 @@
+/* Center the form within its container and add a border */
+#contact-form {
+	margin: auto;
+	max-width: 500px;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
